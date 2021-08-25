@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="army.cpp" />
+    <ClCompile Include="C_BaseWeapon.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C_BaseWeapon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
