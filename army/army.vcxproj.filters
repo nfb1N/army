@@ -30,18 +30,54 @@
     <ClCompile Include="C_ManualWeapon.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C_Sword.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Saber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Alebadra.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Spear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Arch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Arbalet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_BaseWeapon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C_Rifle.h">
+    <ClInclude Include="C_RifleWeapon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C_WoodenWeapon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C_ManualWeapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Sword.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Saber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Alebadra.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Spear.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Arch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Arbalet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

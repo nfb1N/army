@@ -140,15 +140,27 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="army.cpp" />
+    <ClCompile Include="C_Alebadra.cpp" />
+    <ClCompile Include="C_Arbalet.cpp" />
+    <ClCompile Include="C_Arch.cpp" />
     <ClCompile Include="C_BaseWeapon.cpp" />
     <ClCompile Include="C_ManualWeapon.cpp" />
     <ClCompile Include="C_Rifle.cpp" />
+    <ClCompile Include="C_Saber.cpp" />
+    <ClCompile Include="C_Spear.cpp" />
+    <ClCompile Include="C_Sword.cpp" />
     <ClCompile Include="C_WoodenWeapon.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C_Alebadra.h" />
+    <ClInclude Include="C_Arbalet.h" />
+    <ClInclude Include="C_Arch.h" />
     <ClInclude Include="C_BaseWeapon.h" />
     <ClInclude Include="C_ManualWeapon.h" />
-    <ClInclude Include="C_Rifle.h" />
+    <ClInclude Include="C_RifleWeapon.h" />
+    <ClInclude Include="C_Saber.h" />
+    <ClInclude Include="C_Spear.h" />
+    <ClInclude Include="C_Sword.h" />
     <ClInclude Include="C_WoodenWeapon.h" />
   </ItemGroup>
   <ItemGroup>

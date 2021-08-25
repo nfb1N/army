@@ -1,10 +1,10 @@
 #pragma once
 #include "C_BaseWeapon.h"
 #include<thread>
-class C_Rifle :
+class C_RifleWeapon :
     public C_BaseWeapon
 {
-	C_Rifle()
+	C_RifleWeapon()
 	{
 		this->damage = 30;
 		this->strength = 50;
