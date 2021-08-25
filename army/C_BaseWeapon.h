@@ -16,7 +16,7 @@ public:
 		std::cout << "damage: " << this->damage <<"\n";
 	}
 	void break_w() {
-		std::cout << "strength: " << this->strength << "\n";
+		std::cout << "strength: " << --this->strength << "\n";
 	}
 };
 

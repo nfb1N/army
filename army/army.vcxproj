@@ -141,9 +141,19 @@
   <ItemGroup>
     <ClCompile Include="army.cpp" />
     <ClCompile Include="C_BaseWeapon.cpp" />
+    <ClCompile Include="C_ManualWeapon.cpp" />
+    <ClCompile Include="C_Rifle.cpp" />
+    <ClCompile Include="C_WoodenWeapon.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_BaseWeapon.h" />
+    <ClInclude Include="C_ManualWeapon.h" />
+    <ClInclude Include="C_Rifle.h" />
+    <ClInclude Include="C_WoodenWeapon.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
