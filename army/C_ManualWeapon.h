@@ -3,7 +3,7 @@
 class C_ManualWeapon :
     public C_BaseWeapon
 {
-
+public:
 	C_ManualWeapon()
 	{
 		this->damage = 60;

@@ -4,6 +4,7 @@
 class C_RifleWeapon :
     public C_BaseWeapon
 {
+public:
 	C_RifleWeapon()
 	{
 		this->damage = 30;

@@ -3,6 +3,7 @@
 class C_WoodenWeapon :
     public C_BaseWeapon
 {
+public:
 	C_WoodenWeapon()
 	{
 		this->damage = 15;
